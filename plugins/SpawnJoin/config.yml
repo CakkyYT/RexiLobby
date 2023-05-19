@@ -1,0 +1,15 @@
+# Before this plugin will actually work, #
+# you need to do /spawnset ingame, otherwise #
+# the plugin will give some errors! #
+
+X: 1.5
+Y: 9.5
+Z: 21.5
+Yaw: 0.4499976
+Pitch: 1.8000891
+World: world
+give_items: false
+items:
+- apple/1/&4Apple
+item_multiple_times: false
+clear_inv_on_quit: false

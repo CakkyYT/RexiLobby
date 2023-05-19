@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.238.164.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683040712856
+  login: 1683040631329
+money: '0'
+last-account-name: LHCroyal
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: 0.2861678022103764
+  y: 9.0
+  z: 21.176731070583823
+  yaw: -39.45013427734375
+  pitch: 32.09992218017578

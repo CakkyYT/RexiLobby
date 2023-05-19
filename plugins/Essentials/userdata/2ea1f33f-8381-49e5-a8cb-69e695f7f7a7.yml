@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.198.160.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682849583854
+  login: 1682849561887
+money: '0'
+last-account-name: Nopa974
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: 3.600038095914635
+  y: 9.0
+  z: 23.932693041618116
+  yaw: 139.64999389648438
+  pitch: 29.95000648498535

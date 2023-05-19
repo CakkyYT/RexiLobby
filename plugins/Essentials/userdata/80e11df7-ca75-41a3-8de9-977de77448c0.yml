@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.158.4.167
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682864867204
+  login: 1682864735618
+money: '0'
+last-account-name: MyBiot
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: 3.970810138893951
+  y: 9.0
+  z: 24.725684397775883
+  yaw: 104.5283203125
+  pitch: -1.1960543394088745

@@ -1,0 +1,17 @@
+IsSet: true
+LobbySpawn:
+  cc:
+    World: world
+    X: -73.32789440784221
+    Y: 91.0
+    Z: 21.366407775157956
+    Yaw: 268.7003173828125
+    Pitch: -5.399984836578369
+  Lobby:
+    World: world
+    X: -73.32789440784221
+    Y: 91.0
+    Z: 21.366407775157956
+    Yaw: -90.24417114257812
+    Pitch: -3.9560506343841553
+Which_Lobby_Should_Be_Used: Lobby

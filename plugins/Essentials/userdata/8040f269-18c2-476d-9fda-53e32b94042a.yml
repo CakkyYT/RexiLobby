@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.8.1.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1682627582955
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682767451001
+  login: 1682767239157
+money: '0'
+last-account-name: touix22
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: -58.57277971174122
+  y: 91.0
+  z: 17.725162948150768
+  yaw: -101.99980926513672
+  pitch: 30.599777221679688
+lastlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: -66.85294779572705
+  y: 91.0
+  z: 1.1520003681089475
+  yaw: -84.74999237060547
+  pitch: 57.749942779541016

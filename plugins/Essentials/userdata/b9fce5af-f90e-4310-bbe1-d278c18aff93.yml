@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.190.89.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684113695025
+  login: 1684113690962
+money: '0'
+last-account-name: CakkyMC
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: 9.5
+  y: 16.0
+  z: 23.5
+  yaw: 0.0
+  pitch: 0.0

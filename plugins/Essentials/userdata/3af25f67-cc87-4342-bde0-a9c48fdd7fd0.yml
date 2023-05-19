@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.161.168.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1683303183640
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684423518926
+  login: 1684423514713
+money: '0'
+last-account-name: CakkyYTOff
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: -73.32789440784221
+  y: 85.86754675349283
+  z: 21.366407775157956
+  yaw: -87.5999984741211
+  pitch: -3.3000001907348633
+lastlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: -80.83594993391024
+  y: 91.0
+  z: 18.28265607291265
+  yaw: -66.1500015258789
+  pitch: 22.3499813079834

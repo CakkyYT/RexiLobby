@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.8.253.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683298113198
+  login: 1683297965784
+money: '0'
+last-account-name: FleflouTv
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: -0.10848041025606163
+  y: 10.0
+  z: 24.018504453173563
+  yaw: -58.49996566772461
+  pitch: 32.64987564086914

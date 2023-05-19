@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.151.100.31
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683748977906
+  login: 1683748942544
+money: '0'
+last-account-name: Swey36
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: 0.6522325813760932
+  y: 9.23152379758701
+  z: 23.21233713924497
+  yaw: -139.19973754882812
+  pitch: 32.799983978271484

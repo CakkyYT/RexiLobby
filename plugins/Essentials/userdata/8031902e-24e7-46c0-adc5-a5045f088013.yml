@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.66.68.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684420541324
+  login: 1684420538662
+money: '0'
+last-account-name: GenuinelyFrench
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: -73.32789440784221
+  y: 12.06027318594103
+  z: 21.366407775157956
+  yaw: -111.1500473022461
+  pitch: 19.04998207092285

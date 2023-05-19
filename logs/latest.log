@@ -1,0 +1,218 @@
+[07:31:32] [Craft Scheduler Thread - 2884 - AzLink/ERROR]: [AzLink] Unable to send data to the website: java.net.UnknownHostException: rexilya.network
+[07:32:32] [Craft Scheduler Thread - 2888 - AzLink/ERROR]: [AzLink] Unable to send data to the website: java.net.UnknownHostException: rexilya.network
+[08:22:28] [User Authenticator #0/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[08:22:28] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[08:22:29] [Server thread/WARN]: Nag author(s): '[Acco]' of 'UUIDGuardian v1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[08:22:29] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[08:22:29] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59274] logged in with entity id 13 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[08:22:32] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[08:22:34] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[08:22:34] [Server thread/INFO]: GenuinelyFrench left the game
+[08:22:42] [User Authenticator #0/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[08:22:42] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[08:22:42] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[08:22:42] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59276] logged in with entity id 14 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[08:22:44] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[08:22:44] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[08:22:44] [Server thread/INFO]: GenuinelyFrench left the game
+[08:22:56] [User Authenticator #0/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[08:22:56] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[08:22:56] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[08:22:56] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59278] logged in with entity id 15 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[08:22:58] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[08:23:02] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[08:23:02] [Server thread/INFO]: GenuinelyFrench left the game
+[08:23:15] [User Authenticator #0/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[08:23:15] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[08:23:15] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[08:23:15] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59280] logged in with entity id 16 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[08:23:17] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[08:23:18] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[08:23:18] [Server thread/INFO]: GenuinelyFrench left the game
+[08:23:24] [User Authenticator #0/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[08:23:24] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[08:23:24] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[08:23:24] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59282] logged in with entity id 17 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[08:23:25] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[08:23:25] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[08:23:25] [Server thread/INFO]: GenuinelyFrench left the game
+[09:27:48] [User Authenticator #1/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[09:27:48] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[09:27:48] [Server thread/WARN]: Nag author(s): '[Acco]' of 'UUIDGuardian v1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[09:27:48] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[09:27:48] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59284] logged in with entity id 18 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[09:27:50] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[09:27:50] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[09:27:50] [Server thread/INFO]: GenuinelyFrench left the game
+[09:27:56] [User Authenticator #1/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[09:27:56] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[09:27:56] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[09:27:56] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59286] logged in with entity id 19 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[09:27:57] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[09:27:58] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[09:27:58] [Server thread/INFO]: GenuinelyFrench left the game
+[09:37:23] [User Authenticator #2/INFO]: UUID of player bmxlolo is 194220a7-9f0f-42ca-ae13-845f2a84671f
+[09:37:23] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[09:37:23] [Server thread/WARN]: Nag author(s): '[Acco]' of 'UUIDGuardian v1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[09:37:23] [Server thread/WARN]: [HamsterAPI] Failed to inject player bmxlolo please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[09:37:23] [Server thread/INFO]: bmxlolo[/37.174.15.209:59288] logged in with entity id 20 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[09:37:27] [Server thread/INFO]: bmxlolo issued server command: /menu
+[09:37:28] [Server thread/INFO]: bmxlolo lost connection: Disconnected
+[09:37:28] [Server thread/INFO]: bmxlolo left the game
+[09:42:10] [User Authenticator #3/INFO]: UUID of player bmxlolo is 194220a7-9f0f-42ca-ae13-845f2a84671f
+[09:42:10] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[09:42:10] [Server thread/WARN]: [HamsterAPI] Failed to inject player bmxlolo please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[09:42:10] [Server thread/INFO]: bmxlolo[/37.174.15.209:59290] logged in with entity id 21 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[09:42:12] [Server thread/INFO]: bmxlolo issued server command: /menu
+[09:42:13] [Server thread/INFO]: bmxlolo lost connection: Disconnected
+[09:42:13] [Server thread/INFO]: bmxlolo left the game
+[09:42:22] [User Authenticator #3/INFO]: UUID of player bmxlolo is 194220a7-9f0f-42ca-ae13-845f2a84671f
+[09:42:22] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[09:42:22] [Server thread/WARN]: [HamsterAPI] Failed to inject player bmxlolo please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[09:42:22] [Server thread/INFO]: bmxlolo[/37.174.15.209:59292] logged in with entity id 22 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[09:42:23] [Server thread/INFO]: bmxlolo issued server command: /menu
+[09:42:24] [Server thread/INFO]: bmxlolo lost connection: Disconnected
+[09:42:24] [Server thread/INFO]: bmxlolo left the game
+[09:42:35] [User Authenticator #3/INFO]: UUID of player bmxlolo is 194220a7-9f0f-42ca-ae13-845f2a84671f
+[09:42:35] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[09:42:35] [Server thread/WARN]: Nag author(s): '[Acco]' of 'UUIDGuardian v1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[09:42:35] [Server thread/WARN]: [HamsterAPI] Failed to inject player bmxlolo please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[09:42:35] [Server thread/INFO]: bmxlolo[/37.174.15.209:59294] logged in with entity id 23 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[09:42:36] [Server thread/INFO]: bmxlolo issued server command: /menu
+[09:42:37] [Server thread/INFO]: bmxlolo lost connection: Disconnected
+[09:42:37] [Server thread/INFO]: bmxlolo left the game
+[09:58:13] [Craft Scheduler Thread - 3623 - AzLink/ERROR]: [AzLink] Unable to send data to the website: java.net.SocketTimeoutException: Read timed out
+[10:02:55] [User Authenticator #4/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[10:02:55] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[10:02:55] [Server thread/WARN]: Nag author(s): '[Acco]' of 'UUIDGuardian v1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[10:02:55] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[10:02:55] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59296] logged in with entity id 24 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[10:02:57] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[10:02:58] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[10:02:58] [Server thread/INFO]: GenuinelyFrench left the game
+[10:03:04] [User Authenticator #4/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[10:03:04] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[10:03:04] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[10:03:04] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59298] logged in with entity id 25 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[10:03:05] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[10:03:05] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[10:03:05] [Server thread/INFO]: GenuinelyFrench left the game
+[10:20:50] [User Authenticator #5/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[10:20:50] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[10:20:50] [Server thread/WARN]: Nag author(s): '[Acco]' of 'UUIDGuardian v1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[10:20:50] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[10:20:50] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59300] logged in with entity id 26 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[10:20:51] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[10:20:52] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[10:20:52] [Server thread/INFO]: GenuinelyFrench left the game
+[14:27:46] [User Authenticator #6/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[14:27:46] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[14:27:46] [Server thread/WARN]: Nag author(s): '[Acco]' of 'UUIDGuardian v1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[14:27:46] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[14:27:46] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59302] logged in with entity id 27 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[14:27:48] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[14:27:49] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[14:27:49] [Server thread/INFO]: GenuinelyFrench left the game
+[14:30:18] [User Authenticator #7/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[14:30:18] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[14:30:18] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[14:30:18] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59304] logged in with entity id 28 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[14:30:19] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[14:30:20] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[14:30:20] [Server thread/INFO]: GenuinelyFrench left the game
+[14:32:53] [User Authenticator #8/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[14:32:53] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[14:32:53] [Server thread/WARN]: Nag author(s): '[Acco]' of 'UUIDGuardian v1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[14:32:53] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[14:32:53] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59306] logged in with entity id 29 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[14:32:55] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[14:32:58] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[14:33:00] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[14:33:01] [Server thread/INFO]: GenuinelyFrench fell out of the world
+[14:33:01] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[14:33:01] [Server thread/INFO]: GenuinelyFrench left the game
+[14:33:10] [User Authenticator #8/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[14:33:10] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[14:33:10] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[14:33:10] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59308] logged in with entity id 30 at ([world]-73.32789440784221, -306.88903212875715, 21.366407775157956)
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching commands to 1 players.
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [AzLink] Dispatching command for player GenuinelyFrench: bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Merci GenuinelyFrench d'avoir voté pour le serveur !
+[14:33:12] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[14:33:14] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[14:33:14] [Server thread/INFO]: GenuinelyFrench left the game
+[14:35:38] [User Authenticator #9/INFO]: UUID of player GenuinelyFrench is 8031902e-24e7-46c0-adc5-a5045f088013
+[14:35:38] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[14:35:38] [Server thread/WARN]: [HamsterAPI] Failed to inject player GenuinelyFrench please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[14:35:38] [Server thread/INFO]: GenuinelyFrench[/82.66.68.29:59310] logged in with entity id 39 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[14:35:40] [Server thread/INFO]: GenuinelyFrench issued server command: /menu
+[14:35:41] [Server thread/INFO]: GenuinelyFrench lost connection: Disconnected
+[14:35:41] [Server thread/INFO]: GenuinelyFrench left the game
+[14:36:59] [User Authenticator #10/INFO]: UUID of player bmxlolo is 194220a7-9f0f-42ca-ae13-845f2a84671f
+[14:36:59] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[14:36:59] [Server thread/WARN]: [HamsterAPI] Failed to inject player bmxlolo please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[14:36:59] [Server thread/INFO]: bmxlolo[/37.174.15.209:59312] logged in with entity id 40 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[14:37:02] [Server thread/INFO]: bmxlolo issued server command: /menu
+[14:37:03] [Server thread/INFO]: bmxlolo lost connection: Disconnected
+[14:37:03] [Server thread/INFO]: bmxlolo left the game
+[15:25:14] [User Authenticator #11/INFO]: UUID of player CakkyYTOff is 3af25f67-cc87-4342-bde0-a9c48fdd7fd0
+[15:25:14] [Server thread/INFO]: [UUIDGuardian] [STDOUT] Alpanumerico
+[15:25:14] [Server thread/WARN]: Nag author(s): '[Acco]' of 'UUIDGuardian v1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[15:25:14] [Server thread/WARN]: [HamsterAPI] Failed to inject player CakkyYTOff please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[15:25:14] [Server thread/INFO]: CakkyYTOff[/185.161.168.72:59316] logged in with entity id 41 at ([world]-73.32789440784221, 91.0, 21.366407775157956)
+[15:25:17] [Server thread/INFO]: CakkyYTOff issued server command: /menu
+[15:25:18] [Server thread/INFO]: CakkyYTOff lost connection: Disconnected
+[15:25:18] [Server thread/INFO]: CakkyYTOff left the game
+[16:40:54] [Server thread/INFO]: /109.123.240.84:42750 lost connection: If you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+[16:57:44] [Server thread/INFO]: /109.123.240.84:44866 lost connection: If you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+[20:25:13] [Craft Scheduler Thread - 6782 - AzLink/ERROR]: [AzLink] Unable to send data to the website: java.net.SocketTimeoutException: Read timed out
+[20:58:13] [Craft Scheduler Thread - 6948 - AzLink/ERROR]: [AzLink] Unable to send data to the website: java.net.SocketTimeoutException: Read timed out
+[22:00:03] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc Restart automatique du serveur dans 10 secondes
+[22:00:13] [Server thread/INFO]: Stopping the server
+[22:00:13] [Server thread/INFO]: Stopping server
+[22:00:13] [Server thread/INFO]: [PictureLogin] Disabling PictureLogin v1.5.1
+[22:00:13] [Server thread/INFO]: [LobbySpawn] Disabling LobbySpawn v1.2
+[22:00:13] [Server thread/INFO]: [UUIDGuardian] Disabling UUIDGuardian v1.0
+[22:00:13] [Server thread/INFO]: 
+[22:00:13] [Server thread/INFO]:             __    
+[22:00:13] [Server thread/INFO]:   |  ||  |||  \    UUIDGuardian Build v1.2
+[22:00:13] [Server thread/INFO]:   |__||__|||__/    Developed by @Acco
+[22:00:13] [Server thread/INFO]: 
+[22:00:13] [Server thread/INFO]: [CustomJoinItems] Disabling CustomJoinItems v1.5.2
+[22:00:13] [Server thread/INFO]: [ExploitFixer] Disabling ExploitFixer v1.6.2
+[22:00:13] [Server thread/INFO]: [AzLink] Disabling AzLink v1.2.1
+[22:00:13] [Server thread/INFO]: [AzLink] Shutting down scheduler
+[22:00:13] [Server thread/INFO]: [AzLink] Stopping HTTP server
+[22:00:13] [Server thread/INFO]: [SpawnJoin] Disabling SpawnJoin v1.0.6.2
+[22:00:13] [Server thread/INFO]: [PrometheusExporter] Disabling PrometheusExporter v2.5.0
+[22:00:13] [Server thread/INFO]: [org.eclipse.jetty.server.Server] Stopped Server@20d2b004{STOPPING}[11.0.9,sto=0]
+[22:00:13] [Server thread/INFO]: [org.eclipse.jetty.server.AbstractConnector] Stopped ServerConnector@55700123{HTTP/1.1, (http/1.1)}{0.0.0.0:9227}
+[22:00:13] [Server thread/INFO]: [NoRain] Disabling NoRain v1.1.5
+[22:00:13] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v2.0.1
+[22:00:13] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v4.0.3
+[22:00:13] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.7
+[22:00:13] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.8-beta-01+cbb2ba7
+[22:00:13] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:00:13] [Server thread/INFO]: [HamsterAPI] Disabling HamsterAPI v0.1.8
+[22:00:13] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.3.0
+[22:00:13] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.40
+[22:00:13] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:00:13] [Server thread/INFO]: [LuckPerms] Closing storage...

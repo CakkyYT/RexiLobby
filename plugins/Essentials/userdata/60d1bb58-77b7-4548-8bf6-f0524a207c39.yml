@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.174.231.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683980396678
+  login: 1683979015763
+money: '0'
+last-account-name: Lucas_Officiel
+logoutlocation:
+  world: d3770409-e4fa-481c-b420-9e560505991d
+  world-name: world
+  x: 10.318222000861581
+  y: 8.0
+  z: 29.615374527531877
+  yaw: -17.101360321044922
+  pitch: 18.299808502197266

@@ -1,0 +1,239 @@
+menu-settings:
+  name: '&eRexilya&6Network'
+  rows: 5
+  commands:
+  - menu
+  auto-refresh: 3
+  open-actions:
+  - ''
+  open-with-item:
+    material: null
+    left-click: false
+    right-click: true
+rp:
+  ACTIONS:
+  - 'server: rp'
+  NAME: '&6&lRexilya&e&lNetwork &f- &eServeur RP'
+  LORE:
+  - ''
+  - '&c&l! &eServeur sur Whitelist !'
+  - ''
+  - '&eLe but du jeu &f:'
+  - '&f- &7Créer son &cRP&7.'
+  - '&f- &7Survivre.'
+  MATERIAL: '369'
+  POSITION-X: 7
+  POSITION-Y: 3
+crea:
+  ACTIONS:
+  - 'server: dev'
+  NAME: '&6&lRexilya&e&lNetwork &f- &eServeur creatif'
+  LORE:
+  - ''
+  - '&eLe but du jeu &f:'
+  - '&f- &7Fait ce que tu veux&7.'
+  MATERIAL: '267'
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 5
+  POSITION-Y: 3
+pvpmagie:
+  ACTIONS:
+  - 'server: survie'
+  NAME: '&6&lRexilya&e&lNetwork &f- &eServeur Survie'
+  LORE:
+  - ''
+  - '&eLe but du jeu &f:'
+  - '&f- &7Créer sa &csurvie&7.'
+  MATERIAL: '267'
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 3
+  POSITION-Y: 3
+Créditer:
+  NAME: '&e• &6Créditer votre compte &7'
+  ACTIONS:
+  - ''
+  LORE:
+  - ''
+  - '&fVous pouvez &dcréditer &fvotre compte'
+  - '&fsur notre site via &bPaypal&f/&aAppel&f/&cSMS'
+  - '&fet pleins d''autres moyens de paiements'
+  - ''
+  ENCHANTMENTS:
+  - unbreaking, 1
+  MATERIAL: 130
+  POSITION-X: 1
+  POSITION-Y: 5
+vitreeefe1:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 9
+  POSITION-Y: 4
+  DURABILITY: 2
+vitreeefefeferrgrggfe1:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 1
+  POSITION-Y: 1
+  DURABILITY: 2
+vitre2:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 2
+  POSITION-Y: 1
+  DURABILITY: 2
+vitre3:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 3
+  POSITION-Y: 1
+  DURABILITY: 2
+vitre4:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 4
+  POSITION-Y: 1
+  DURABILITY: 2
+Profil:
+  NAME: '&e• &6Profil:'
+  ACTIONS:
+  - 'tell: &ewww.kataliamc.fr'
+  LORE:
+  - ''
+  - '&7» &fPseudo: &a{player}'
+  - ''
+  - '&6&nClique pour créditer ton compte'
+  MATERIAL: skull
+  SKULL-OWNER: Checkaviah
+  POSITION-X: 5
+  POSITION-Y: 1
+  DURABILITY: 3
+vitre6:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 6
+  POSITION-Y: 1
+  DURABILITY: 2
+vitre7:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 7
+  POSITION-Y: 1
+  DURABILITY: 2
+vitre8:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 8
+  POSITION-Y: 1
+  DURABILITY: 2
+vitre9:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 9
+  POSITION-Y: 1
+  DURABILITY: 2
+vitre10:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 1
+  POSITION-Y: 2
+  DURABILITY: 2
+vitre11:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 1
+  POSITION-Y: 3
+  DURABILITY: 2
+vitre12:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 1
+  POSITION-Y: 4
+  DURABILITY: 2
+vitre13:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 9
+  POSITION-Y: 2
+  DURABILITY: 2
+vitre14:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 9
+  POSITION-Y: 3
+  DURABILITY: 2
+Fereemer:
+  NAME: '&e• &6Pour fermer le menu'
+  ACTIONS:
+  - ''
+  LORE:
+  - ''
+  ENCHANTMENTS:
+  - unbreaking, 1
+  MATERIAL: 166
+  POSITION-X: 9
+  POSITION-Y: 5
+vitre16:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 2
+  POSITION-Y: 5
+  DURABILITY: 2
+vitre17:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 3
+  POSITION-Y: 5
+  DURABILITY: 2
+vitre18:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 4
+  POSITION-Y: 5
+  DURABILITY: 2
+vitre19:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 5
+  POSITION-Y: 5
+  DURABILITY: 2
+vitre20:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 6
+  POSITION-Y: 5
+  DURABILITY: 2
+vitre21:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 7
+  POSITION-Y: 5
+  DURABILITY: 2
+vitre22:
+  MATERIAL: stained_glass_pane
+  ENCHANTMENTS:
+  - unbreaking, 1
+  POSITION-X: 8
+  POSITION-Y: 5
+  DURABILITY: 2

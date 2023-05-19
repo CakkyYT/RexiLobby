@@ -1,0 +1,8 @@
+un:
+  name: '&eTéléporteur'
+  id: 399
+  slot: 5
+  lore:
+    - '&7Clique droit pour afficher'
+    - '&7la liste des serveurs.'
+  command: 'menu'
